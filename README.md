@@ -14,7 +14,7 @@
 
 - [x] Módulo 5: Conhecendo o github projects
 
-- [x] Módulo 6: Revisão e dicas 
+- [x] Módulo 6: Revisão e dicas([repositório de revisão](https://github.com/brunadelmourosilva/git-revisao-womakerscode)) 
 
 
 ---
