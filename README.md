@@ -1,5 +1,7 @@
 ## Curso de Git e Github: Primeiros passos no desenvolvimento de softwares
 
+---
+
 ### :books: Módulos
 
 - [x] Módulo 1: Conceitos iniciais
